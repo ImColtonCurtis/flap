@@ -33,7 +33,7 @@ We value your feedback! If you encounter any issues, have suggestions, or need a
 Credits
 
     Game concept and design by No Nothing Games.
-    Graphics and sound effects sourced from royalty-free libraries.
+    Graphics and sound effects were either created in-house or sourced from royalty-free libraries.
     Special thanks to our beta testers for their valuable feedback and support.
 
 So what are you waiting for? Download flap now and start flapping your way to the top of the world! Have fun and happy flapping!
