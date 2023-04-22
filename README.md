@@ -1,7 +1,7 @@
 # flap
-Flap It Up!
+flap
 
-Welcome to Flap It Up! A fun and addictive game where you get to flap your way through a revolving set of obstacles on your way to the top of the world! But watch out for the purple smoke, as it's out to ruin your fun! Can you beat the challenges and reach the highest score?
+Welcome to flap! A fun and addictive game developed by No Nothing Games, where you get to flap your way through a revolving set of obstacles on your way to the top of the world! But watch out for the purple smoke, as it's out to ruin your fun! Can you beat the challenges and reach the highest score?
 How to Play
 
     Tap the screen to make your character flap its wings and fly.
@@ -29,11 +29,11 @@ To play Flap It Up!, follow these steps:
 
 Feedback and Support
 
-We value your feedback! If you encounter any issues, have suggestions, or need assistance, please contact our support team at support@flapitup.com. We are here to help and improve your gaming experience.
+We value your feedback! If you encounter any issues, have suggestions, or need assistance, please contact our support team at nonothinggames@gmail.com. We are here to help and improve your gaming experience.
 Credits
 
-    Game concept and design by Flap It Up! Studios.
+    Game concept and design by No Nothing Games.
     Graphics and sound effects sourced from royalty-free libraries.
     Special thanks to our beta testers for their valuable feedback and support.
 
-So what are you waiting for? Download Flap It Up! now and start flapping your way to the top of the world! Have fun and happy flapping!
+So what are you waiting for? Download flap now and start flapping your way to the top of the world! Have fun and happy flapping!
